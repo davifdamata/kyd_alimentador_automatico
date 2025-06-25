@@ -111,6 +111,3 @@ flutter run   # selecione emulador ou dispositivo físico
 | Orientação técnica | Prof. **Victor Vicaria** |
 
 ---
-
-## 📄 Licença
-Distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
