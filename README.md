@@ -20,7 +20,7 @@ Projeto de IoT que integra **ESP32**, **Flutter** e **Firebase** para dispensar 
 .
 ├── lib/        # Código do aplicativo
 ├── esp32_firmware/     # Firmware para a placa ESP32
-├── hardware/           # Fotos, diagrama e lista de materiais
+├── hardware/           # Fotos
 └── README.md           # Este arquivo
 ```
 
