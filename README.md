@@ -96,7 +96,7 @@ flutter run   # selecione emulador ou dispositivo físico
 
 ## ▶️ Demonstração
 - **Vídeo:** `/hardware/demo.mp4` (protótipo em ação)  
-- **Prints:** `/app_flutter/screenshots/`
+- **Prints:** `/hardware`
 
 ---
 
