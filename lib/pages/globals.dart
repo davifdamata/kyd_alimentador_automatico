@@ -1,0 +1,1 @@
+String? globalEsp32Ip;

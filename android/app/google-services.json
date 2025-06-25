@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26649675114",
+    "project_id": "kyd-alimentador--automatico",
+    "storage_bucket": "kyd-alimentador--automatico.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26649675114:android:080d25728b7fb2bf835113",
+        "android_client_info": {
+          "package_name": "com.example.alimentador_automatico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26649675114-8ghfpr45l36ij88hkhde4ki83of5su4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALb1w3_c0a3J31NfKXhjGL4v_T7WDoXjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26649675114-8ghfpr45l36ij88hkhde4ki83of5su4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
