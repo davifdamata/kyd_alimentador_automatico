@@ -101,11 +101,6 @@ flutter run   # selecione emulador ou dispositivo físico
 
 ---
 
-## 📅 Roadmap
-- Atualização OTA via Wi-Fi  
-- Modo multi-pet  
-- Enclosure definitivo impresso em 3D  
-- CI/CD com GitHub Actions
 
 ---
 
