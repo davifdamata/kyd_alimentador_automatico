@@ -59,7 +59,6 @@ Projeto de IoT que integra **ESP32**, **Flutter** e **Firebase** para dispensar 
 | Fonte 5 V 2 A | 1 | Alimentação |
 | Parafusos, tampas, cola PVC | — | Montagem |
 
-Fotos e guia de montagem em `/hardware/`.
 
 ---
 
